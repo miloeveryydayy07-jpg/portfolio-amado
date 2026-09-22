@@ -387,6 +387,9 @@ body {
     border: 1px solid #1e293b;
     border-radius: 10px;
     transition: 0.3s;
+
+    text-decoration: none;
+    display: block;
 }
 
 .contact-box:hover {
