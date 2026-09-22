@@ -516,6 +516,9 @@ body {
 .project-card {
     position: relative;
     overflow: hidden;
+    text-decoration: none;
+    display: block;
+    color: inherit;
 }
 
 .project-card::before {
